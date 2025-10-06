@@ -24,7 +24,7 @@ The feature selection techniques used are:
 3.Embedded Method
 
 # CODING AND OUTPUT:
-```
+
        from sklearn.preprocessing import StandardScaler, MinMaxScaler, MaxAbsScaler, Normalizer, RobustScaler
 
       import pandas as pd
@@ -32,7 +32,7 @@ The feature selection techniques used are:
       df1 
       
 <img width="396" height="493" alt="image" src="https://github.com/user-attachments/assets/21dbaade-215c-4cfa-bbec-d1eb057be51c" />
-```
+
   
       df2 = df1.copy()
 
